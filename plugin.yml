@@ -2,7 +2,9 @@ name: HCFSets
 main: hcfsets\Main
 author: JackNoordhuis
 version: 0.0.1_ALPHA
-api: 3.0.0-ALPHA3
+api: 
+- 3.0.0-ALPHA9
+- 3.0.0-ALPHA10
 
 permissions:
   hcfsets:
